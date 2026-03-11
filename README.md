@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Pavithra Rajan
 
-<!--
-**rajanpavi123-cmd/rajanpavi123-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer passionate about Linux systems, backend development, and open-source technologies.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python
+- Linux
+- Git & GitHub
+- REST API
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Linux System Monitor (Python)
+- Linux Log Analyzer (Python)
+- Simple REST API using Flask
+
+## 🌱 Currently Learning
+- Backend Development
+- Linux System Programming
+- Open Source Contribution
+
+## 📫 Connect With Me
+- GitHub: https://github.com/rajanpavi123-cmd
